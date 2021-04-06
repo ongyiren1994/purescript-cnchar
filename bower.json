@@ -1,0 +1,32 @@
+{
+  "name": "purescript-cnchar",
+  "homepage": "https://github.com/ongyiren1994/purescript-cnchar",
+  "authors": [
+    "ongyiren1994 <ongyiren@outlook.com>"
+  ],
+  "repository": {                                                           
+      "type": "git",                                                          
+      "url": "https://github.com/ongyiren1994/purescript-cnchar.git"          
+  },
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "output"
+  ],
+    "dependencies": {
+    "purescript-prelude": "^5.0.0",
+    "purescript-console": "^5.0.0",
+    "purescript-options": "^6.0.0",
+    "purescript-maybe": "^5.0.0"
+  },
+    "devDependencies": {
+    "purescript-psci-support": "^5.0.0",
+    "purescript-spec": "^5.0.0"
+  }
+}
